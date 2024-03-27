@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. 
 
+#### [v0.1.2](https://github.com/zumerlab/zumerbox-css-lint/compare/v0.1.1...v0.1.2)
+
+> 27 March 2024
+
+- Chore: update toold and docs [`5deab24`](https://github.com/zumerlab/zumerbox-css-lint/commit/5deab249a87f5c472cffbc9229f70cfab2a18417)
+- Bumped version [`4a743b2`](https://github.com/zumerlab/zumerbox-css-lint/commit/4a743b2c1dff1e41a5c7a2ea791c5f64b1afb3c7)
+
 #### [v0.1.1](https://github.com/zumerlab/zumerbox-css-lint/compare/v0.1.0...v0.1.1)
 
 > 25 March 2024
